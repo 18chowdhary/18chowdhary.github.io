@@ -13,4 +13,4 @@ I received a B.S. in Computing from Franklin W. Olin College of Engineering in 2
 
 I will be a PhD student at the University of Michigan's School of Information in Fall 2023, advised by Profs. Ben Green and Nazanin Andalibi.
 
-Outside of academics, I enjoy reading (especially romance, memoirs and other non-fiction, fantasy, and cozy mysteries), cross-stitching, running, exploring local parks, biking, working out, and trying out new recipes -- recommendations welcome :)
+Outside of research, I enjoy reading (especially romance, memoirs and other non-fiction, fantasy, and cozy mysteries), cross-stitching, running, exploring local parks, biking, working out, and trying out new recipes -- recommendations welcome :)
