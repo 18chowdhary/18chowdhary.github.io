@@ -1,0 +1,15 @@
+---
+title: "Sensing Wellbeing in the Workplace, Why and For Whom? Envisioning Impacts with Organizational Stakeholders"
+collection: publications
+permalink: /publication/2023-11-01-workplace-wellbeing-multistakeholder
+excerpt: 'This study examined multi-stakeholder perceptions of workplace wellbeing sensing technologies.'
+date: 2023-10-14
+venue: 'ACM CSCW'
+paperurl: 'https://arxiv.org/abs/2303.06794'
+citation: "Anna Kawakami, <b>Shreya Chowdhary</b>, Shamsi T. Iqbal, Vera Liao, Alexandra Olteanu, and Koustuv Saha. 2023. Sensing Wellbeing in the Workplace, Why and For Whom? Envisioning Impacts with Organizational Stakeholders. In <i>2023 ACM Conference on Computer-Supported Cooperative Work (CSCW '23), October 14-18 2023, Minneapolis, MN, USA.</i> ACM, New York, NY, USA, 32 pages. https://arxiv.org/abs/2303.06794."
+---
+With the heightened digitization of the workplace, alongside the rise of remote and hybrid work prompted by the pandemic, there is growing corporate interest in using passive sensing technologies for workplace wellbeing. Existing research on these technologies often focus on understanding or improving interactions between an individual user and the technology. Workplace settings can, however, introduce a range of complexities that challenge the potential impact and in-practice desirability of wellbeing sensing technologies. Today, there is an inadequate empirical understanding of how everyday workers -- including those who are impacted by, and impact the deployment of workplace technologies -- envision its broader socio-ecological impacts. In this study, we conduct storyboard-driven interviews with 33 participants across three stakeholder groups: organizational governors, AI builders, and worker data subjects. Overall, our findings surface how workers envisioned wellbeing sensing technologies may lead to cascading impacts on their broader organizational culture, interpersonal relationships with colleagues, and individual day-to-day lives. Participants anticipated harms arising from ambiguity and misalignment around scaled notions of ``worker wellbeing,'' underlying technical limitations to workplace-situated sensing, and assumptions regarding how social structures and relationships may shape the impacts and use of these technologies. Based on our findings, we discuss implications for designing worker-centered data-driven wellbeing technologies.
+
+[Download paper here](http://shreyac.me/files/multistakeholder.pdf)
+
+Recommended citation: Anna Kawakami, Shreya Chowdhary, Shamsi T. Iqbal, Vera Liao, Alexandra Olteanu, and Koustuv Saha. 2023. Sensing Wellbeing in the Workplace, Why and For Whom? Envisioning Impacts with Organizational Stakeholders. In <i>2023 ACM Conference on Computer-Supported Cooperative Work (CSCW '23), October 14-18 2023, Minneapolis, MN, USA.</i> ACM, New York, NY, USA, 32 pages. 
