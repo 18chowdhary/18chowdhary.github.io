@@ -8,5 +8,8 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {{ post.title }}
+  <p>
+    TITLE={{ post.title }}<br>
+    URL={{ post.permalink }}
+  </p>
 {% endfor %}
