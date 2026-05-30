@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a socio-technical researcher and a critical techno-realist. I use interdisciplinary approaches with a critical orientation to understand how technology perpetuates existing systems of oppression and enables new kinds of oppression, identify the necessary social, technical, and legal guardrails to prevent harm, and envision ways for computing to meaningfully advance social justice. I draw heavily from fields like human-computer interaction, critical data/algorithmic studies, science and technology studies, and computer-supported cooperative work. My ultimate goal as a researcher and technologist is to orient computing towards the public interest.
+I am a Ph.D. candidate at the University of Michigan's School of Information, advised by Ben Green. My research examines the social, organizational, and political processes through which emerging technologies---particularly AI---are adopted, governed, and contested. 
 
-I received a B.S. in Computing from Franklin W. Olin College of Engineering in 2022, where I researched design refusal and feminist computing with Prof. Erhardt Graeff and co-founded a student-led public interest technology club called [PInT](pint.olin.edu). After graduation, I interned at Microsoft Research Montreal in the Fairness, Accountability, Transparency, and Ethics (FATE) group, working with Dr. Koustuv Saha. Since then, I have been working in the tech industry as a software engineer.
+Drawing on perspectives from human-computer interaction, science and technology studies, and political economy, I investigate how technological visions and promises shape public-sector decision-making and the development of digital infrastructures, and theorize how these decision-making processes could be reshaped through collective action to advance democratic technological futures. My current work focuses on hype-driven AI adoption in government and resistance to AI hype in the public sector. 
 
-I will be a PhD student at the University of Michigan's School of Information in Fall 2023, advised by Profs. Ben Green and Nazanin Andalibi.
+Prior to beginning my PhD, I received a B.S. in Computing from Olin College of Engineering, where I researched design refusal and feminist computing with Erhardt Graeff and co-founded the Public Interest Technology (PInT) club. I also worked with Koustuv Saha in the Fairness, Accountability, Transparency, and Ethics (FATE) group at Microsoft Research Montréal.
 
-Outside of research, I enjoy reading, cross-stitching, running, exploring local parks, biking, and trying out new recipes -- recommendations welcome :)
+Outside of research, I enjoy reading, cross-stitching, swimming, knitting, and watching TV/movies --- recommendations are always welcome! 
