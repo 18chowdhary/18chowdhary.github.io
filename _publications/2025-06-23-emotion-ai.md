@@ -2,9 +2,9 @@
 title: "Technical Solutions to Emotion AI's Privacy Harms: A Systematic Literature Review"
 collection: publications
 permalink: /publication/2025-06-23-emotion-ai
-excerpt: 'This paper critically reviews the most common technical solutions to emotion AI's numerous privacy harms.'
+excerpt: "This paper critically reviews the most common technical solutions to emotion AI's numerous privacy harms."
 date: 2025-06-23
-venue: 'ACM FAccT'
+venue: "ACM FAccT"
 authors: "<b>Shreya Chowdhary</b>, Alexis Shore Ingber, and Nazanin Andalibi"
 paperurl: 'https://doi.org/10.1145/3715275.3732074'
 ---
