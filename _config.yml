@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shreya Chowdhary"
 title_separator          : "-"
 name                     : &name "Shreya Chowdhary"
-description              : &description "sociotechnical researcher & critical techno-realist"
+description              : &description "PhD candidate at the School of Information at University of Michigan"
 url                      : https://18chowdhary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "18chowdhary/18chowdhary.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "profile.png"
-  bio              : "sociotechnical researcher and critical techno-realist / incoming PhD student at the University of Michigan's School of Information"
-  location         : "Boston"
+  bio              : "PhD candidate at the University of Michigan's School of Information"
+  location         : "Ann Arbor, MI"
   employer         :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=WQ_mnfEAAAAJ&hl=en&authuser=1"
   email            : "schowdha@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -232,7 +232,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
