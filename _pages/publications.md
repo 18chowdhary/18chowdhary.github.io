@@ -5,4 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-HELLO
+{% include base_path %}
+
+TEST
