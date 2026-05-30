@@ -1,6 +1,6 @@
 ---
 title: "Care and Liberation in Creating a Student-Led Public Interest Technology Clinic"
-authors: "**Shreya Chowdhary**, Sam Daitzman, Ruby Eisenbud, Emma Pan, and Erhardt Graeff" 
+authors: "<b>Shreya Chowdhary</b>, Sam Daitzman, Ruby Eisenbud, Emma Pan, and Erhardt Graeff" 
 collection: publications
 permalink: /publication/2020-11-12-istas-pint-full
 excerpt: 'Using autoethnography, we reflect on our effort to create the clinic and find that we prioritized emotions and relationships, embraced slowness and deliberation, and claimed student ownership.'
