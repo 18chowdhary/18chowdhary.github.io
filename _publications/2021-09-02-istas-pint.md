@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1109/MTS.2021.3101915'
 
 Engineers disengage from public welfare concerns during undergraduate engineering education. In her widely cited study, Erin Cech argued that this arises from a culture of depoliticization in engineering that dismisses “nontechnical” concerns and competencies, reifying a false technical/social dichotomy and meritocratic ideology that justifies existing social structures. Our college, Olin College of Engineering, was part of that study, displaying similar patterns to more traditional schools. We are resisting that trend by embracing “public interest technology” (PIT), which we believe offers a response to the culture of disengagement. In our application, PIT represents a community of practice that encourages engineers to fully engage with context, inequity, and uncertainty; to connect technical work to their own lives and environment; and to prioritize the common good while minimizing public harms.
 
-[Download paper here](http://shreyac.me/files/istas.pdf)
+[Download paper here](http://shreyachowdhary.net/files/istas.pdf)
