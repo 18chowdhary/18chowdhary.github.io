@@ -1,7 +1,7 @@
 ---
 title: "Movement Data Science: Practices for Working in Solidarity with Social Justice Efforts"
 collection: publications
-permalink: /publication/2026-10-10
+permalink: /publication/2026-10-10-movement-data-science
 excerpt: "Drawing on movement lawyering, we propose a framework for data scientists to find productive and equitable roles in social justice efforts."
 date: 2026-10-10
 venue: "ACM CSCW"
