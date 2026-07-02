@@ -22,4 +22,4 @@ to play within specific social justice efforts. Movement data science does not p
 data scientists to follow, but it can help them support social justice movements in substantive ways that go
 beyond attempting to solve injustices with technical tools.
 
-[Download paper here]()
+[Download paper here](http://shreyachowdhary.net/files/movement-data-science.pdf)
