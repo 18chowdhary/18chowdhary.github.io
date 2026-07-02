@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download my CV [here](http://shreyac.me/files/cv-nov-2022.pdf) (last updated: November 2022).
+Download my CV [here](http://shreyachowdhary.net/files/cv-july-2026.pdf) (last updated: July 2026).
