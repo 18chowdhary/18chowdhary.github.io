@@ -45,7 +45,7 @@
             {{ post.authors }}<br>
             <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}<br>
             {% if post.paperurl %}
-              <a href="{{ post.paperurl }}">Paper</a>
+              Permalink: <a href="{{ post.paperurl }}">{{ post.paperurl }}</a>
             {% endif %}
           </p>
         {% elsif post.date %}
